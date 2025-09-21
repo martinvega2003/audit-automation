@@ -1,5 +1,6 @@
 # Project data and reports (local only, not for version control)
 data/
+!data/sample_data_generation.py
 reports/
 
 # Byte-compiled / optimized / DLL files
